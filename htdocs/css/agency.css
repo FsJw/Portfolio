@@ -883,7 +883,7 @@ margin-top:140px;
 }
 
 #content h1 {
-font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 text-shadow:3px 3px 0 #ddd;
 color:#193340;
 font-size:40px;
@@ -916,24 +916,24 @@ margin-bottom:1px;
 font-size:18px;
 }
 
-.skills .jq {
-background:#97BE0D;
+.skills .cms {
+background:#003B46;
 }
 
 .skills .css {
-background:#D84F5F;
+background:#07575B;
 }
 
 .skills .html {
-background:#88B8E6;
-}
-
-.skills .php {
-background:#BEDBE9;
+background:#66A5AD;
 }
 
 .skills .sql {
-background:#EDEBEE;
+background:#2C7873;
+}
+
+.skills .php {
+background:#C4DFE6;
 }
 
 #diagram {
