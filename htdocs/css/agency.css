@@ -282,6 +282,7 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
+    min-height: 22px;
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
